@@ -15,8 +15,8 @@
 
 <h2><p align="center">My Skills :</p></h2>
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,tailwind,js,react,typescript,nodejs,express,mysql&perline=13">
-     <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,firebase,linux,git&perline=13"></p>
+     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,mysql&perline=13">
+     <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,linux,git&perline=13"></p>
 </p>
 
 <h2><p align="center">My Socials :</p></h2>
