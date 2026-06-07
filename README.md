@@ -21,12 +21,9 @@
 
 <h2><p align="center">My Socials :</p></h2>
 <p align="center">
-<a href="https://www.github.com/BeAsAkash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
-<a href="https://discord.com/users/beasakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
-<a href="http://www.instagram.com/_.BeAsAkash._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/in/akash-kumar-693a91226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
-<a href="https://www.leetcode.com/beasakash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beasakash" height="40" width="40" /></a>
-<a href="https://www.twitter.com/k_akash20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
+<a href="https://www.github.com/anantkumar24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/anantkumar24/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
+<a href="https://www.leetcode.com/anantkumar1234" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anantkumar1234" height="40" width="40" /></a>
 </p>
 
 <br>
@@ -34,7 +31,7 @@
 <table>
      <tr>
           <td>
-               <a href="http://www.github.com/anantkumar24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeAsAkash&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=false" /></a>
+               <a href="http://www.github.com/anantkumar24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anantkumar24&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=false" /></a>
           </td>
      </tr> 
      
